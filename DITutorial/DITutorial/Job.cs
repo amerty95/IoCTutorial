@@ -24,7 +24,7 @@ namespace DITutorial
             logger.Log(Employee.Name + " finished the job");
 
             Emailer emailer = new Emailer();
-            emailer.SendMessage(Employee.Name + " " + Employee.Surname + " worked and finished the job");
+            emailer.SendMessage(Employee, "You finished the job!!!!");
 
         }
 

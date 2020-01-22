@@ -1,0 +1,11 @@
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\obj\Debug\netcoreapp3.1\DITutorailInterface.csprojAssemblyReference.cache
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\obj\Debug\netcoreapp3.1\DITutorailInterface.AssemblyInfoInputs.cache
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\obj\Debug\netcoreapp3.1\DITutorailInterface.AssemblyInfo.cs
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.exe
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.deps.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.runtimeconfig.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.runtimeconfig.dev.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.dll
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\bin\Debug\netcoreapp3.1\DITutorailInterface.pdb
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\obj\Debug\netcoreapp3.1\DITutorailInterface.dll
+C:\Users\amert\source\repos\IoCTutorial\DITutorailInterface\DITutorailInterface\obj\Debug\netcoreapp3.1\DITutorailInterface.pdb
