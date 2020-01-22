@@ -1,0 +1,11 @@
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.exe
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.deps.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.runtimeconfig.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.runtimeconfig.dev.json
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.dll
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\bin\Debug\netcoreapp3.1\DITutorial.pdb
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\obj\Debug\netcoreapp3.1\DITutorial.csprojAssemblyReference.cache
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\obj\Debug\netcoreapp3.1\DITutorial.AssemblyInfoInputs.cache
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\obj\Debug\netcoreapp3.1\DITutorial.AssemblyInfo.cs
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\obj\Debug\netcoreapp3.1\DITutorial.dll
+C:\Users\amert\source\repos\IoCTutorial\DITutorial\DITutorial\obj\Debug\netcoreapp3.1\DITutorial.pdb
